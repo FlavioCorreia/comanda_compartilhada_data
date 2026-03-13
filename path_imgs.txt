@@ -1,2 +1,17 @@
-https://github.com/FlavioCorreia/comanda_compartilhada_data/blob/main/imgs/ordones_fortaleza.png
-https://github.com/FlavioCorreia/comanda_compartilhada_data/blob/main/imgs/ordones_steak_burger_fortaleza.png
+{
+  "version": "1.0.0",
+  "partners": [
+    {
+      "id": "1",
+      "name": "Ordones Fortaleza",
+      "image_url": "https://raw.githubusercontent.com/FlavioCorreia/comanda_compartilhada_data/main/imgs/ordones_fortaleza.png",
+      "link": "https://www.instagram.com/restauranteordones/"
+    },
+    {
+      "id": "2",
+      "name": "Ordones Steak Burger",
+      "image_url": "https://raw.githubusercontent.com/FlavioCorreia/comanda_compartilhada_data/main/imgs/ordones_steak_burger_fortaleza.png",
+      "link": "https://www.instagram.com/ordonessteakburger/"
+    }
+  ]
+}
